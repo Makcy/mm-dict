@@ -1,6 +1,6 @@
 {
   "name": "mm-dict",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a quick shell dict",
   "main": "index.js",
   "module": "lib/module/index",
